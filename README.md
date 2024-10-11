@@ -1,3 +1,5 @@
+# This repository was forked from https://github.com/hashicorp/terraform-aws-nomad. It's no longer supported by hashicorp yet we currently rely on its scripts and tooling for provisioning Nomad.
+
 # DISCLAIMER: This is no longer supported.
 Moving forward in the future this repository will be no longer supported and eventually lead to
 deprecation. Please use our latest versions of our products moving forward or alternatively you
